@@ -9,7 +9,7 @@ This is how we built a robotic arm with two servos and four buttons!
 ### Images and Code
 
 ![Sketch of Robotic Arm Design](https://github.com/Wesswanson/Double-Servo-Robotic-Arm/blob/main/Screenshot%202021-01-29%20at%201.50.32%20PM.png?raw=true)
-c++
+```c++
 /*
 This code will control one continuous servo with two buttons and another continuous servo with two
 other buttons. This will allow a robotic arm to operate when the buttons are pushed.
