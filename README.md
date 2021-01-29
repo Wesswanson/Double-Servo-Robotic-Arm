@@ -30,10 +30,10 @@ void loop() {
   button2 = the current value of button 2
   button3 = the current value of button 3
   button4 = the current value of button 4
-    if button1 is high, move servo 1 left
-    if button2 is high, move servo 1 right
-    if button3 is high, move servo 2 left
-    if button4 is high, move servo 2 right
+    if button1 is high, move servo1 left
+    if button2 is high, move servo1 right
+    if button3 is high, move servo2 left
+    if button4 is high, move servo2 right
 }
 ```
 
