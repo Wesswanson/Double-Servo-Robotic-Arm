@@ -15,9 +15,11 @@ Though right now there isn't much here, you can view the CAD design in Onshape w
 
 ### Images and Code
 
+Below is the sketch design we are working off of right now. The first arm will be attached to a continuous servo, which is attached to a base with a battery and arduino. The other end of the first arm will have another continuous servo attached to the bottom of it, which is holding a second arm that is short enough to make a continuous rotation without hitting the base. the end of that arm can have a ball launching or pen attachment.
+
 ![Sketch of Robotic Arm Design](https://github.com/Wesswanson/Double-Servo-Robotic-Arm/blob/main/Screenshot%202021-01-29%20at%201.50.32%20PM.png?raw=true)
 
-This is an outline with what the code will do (written out instead of the completed code):
+This is an outline with what the code will do (written out as Pseudo code instead of the completed, working code):
 
 ```c++
 /*
