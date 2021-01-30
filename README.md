@@ -4,7 +4,12 @@ This is how we built a robotic arm with two servos and four buttons!
 
 ### Description
 
-The goals of this project art to:
+The goals of this project are to:
+* Create a double servo robotic arm that can be moved to many different locations with four buttons
+* Draw a picture with a pen attached to the end of the robotic arm
+* Launch a ball off of an attachment at the end of the robotic arm (possibly controlled with a 5th button)
+
+Though right now there isn't much here, you can view the CAD design in Onshape with [this link](https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/649546acbd99fbd2c4fc84f4)!
 
 ## Week 1
 
