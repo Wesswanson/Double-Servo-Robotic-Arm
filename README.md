@@ -51,4 +51,11 @@ void loop() {
 
 ### Analysis: How the design/building process is going
 
+week one:
+* We have started designing the arms in onshape, and are working out how to attach the servo to the arms in order for it to function properly. We have started thinking about the basics of the code and we are finding the best way for it to function. We still need to figure out 
+* exact connection points of parts
+* wiring of 4 buttons, and 2 servos
+* how to finish the code
+
+
 ---
