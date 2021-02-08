@@ -59,3 +59,16 @@ week one:
 
 
 ---
+
+
+### Onshape 
+
+https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/4fe5c25cfc422637f83d71be
+
+### Arduino
+
+https://create.arduino.cc/editor/ljennin23/eddf6cce-00a5-4108-b38d-024daafda403
+
+
+
+
