@@ -69,6 +69,4 @@ https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3af
 
 https://create.arduino.cc/editor/ljennin23/eddf6cce-00a5-4108-b38d-024daafda403
 
-
-
-
+## Week 2
