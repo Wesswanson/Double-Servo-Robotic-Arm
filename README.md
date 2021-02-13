@@ -129,7 +129,11 @@ void loop() {
 }
 ```
 
-### Analysis: How the design/building process is going
+### Analysis: How the design/building process is going : We have the design fairly planned out in our heads we just need to finish the exact measurements. We need the measurments of the servo in order to create the holes big enough for them. We need to figure out how the wiring is going to play into the movement of the arm, because of our two servos. Aside from these unknowns we have most of our code ready and our design ready. 
+
+### design
+
+
 
 ### Onshape
 
