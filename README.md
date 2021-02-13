@@ -70,3 +70,59 @@ https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3af
 https://create.arduino.cc/editor/ljennin23/eddf6cce-00a5-4108-b38d-024daafda403
 
 ## Week 2
+ 
+### Images and code
+
+```c++
+// Include the Servo library
+#include <Servo.h>
+// Declare the Servo pin
+int servoPin1 = 3;
+int servoPin2 = 9;
+// Create a servo object
+Servo myServo1;
+Servo myServo2;
+int button1;
+int button2;
+int button3;
+int button4;
+int pin1;
+int pin2;
+int pin3;
+int pin4;
+
+int servo1angle = 90;
+int servo2angle = 90;
+
+void setup() {
+  // We need to attach the servo to the used pin number
+  myServo1.attach(servoPin1);
+  myServo2.attach(servoPin2);
+  Serial.begin(9600);
+  myServo1.write(servo1angle);
+  myServo2.write(servo2angle);
+}
+void loop() {
+  button1 = digitalread(pin1);
+  button2 = digitalread(pin2);
+  button3 = digitalread(pin3);
+  button4 = digitalread(pin4);
+
+  if (button1 == HIGH & servo1angle < 180) {
+    myServo1.write(servo1angle++);
+    delay(10);
+  }
+  if (button2 == HIGH & servo1angle > 0) {
+    myServo1.write(servo1angle--);
+    delay(10);
+  }
+  if (button3 == HIGH & servo2angle < 180) {
+    myServo2.write(servo2angle++)
+    delay(10);
+  }
+  if (button4 == HIGH & servo2angle > 0 {
+    myServo2.write(servo2angle--);
+    delay(10);
+  }
+}
+```
