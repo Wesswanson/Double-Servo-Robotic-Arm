@@ -133,6 +133,6 @@ void loop() {
 
 ### Arduino
 
-Here is a link to the code on the Arduino Editor: (https://create.arduino.cc/editor/wswanso44/95b165dd-6eb1-45e6-b842-c0ea6bbc2cc4/preview)
+Here is a link to the code on the Arduino Editor: https://create.arduino.cc/editor/wswanso44/95b165dd-6eb1-45e6-b842-c0ea6bbc2cc4/preview
 
 ---
