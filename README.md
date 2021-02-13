@@ -133,10 +133,10 @@ void loop() {
 
 ### design
 
-![robotarm](images/robotarm.png)
 
 
-![robotarm2](images/robotarm2.png)
+
+
 
 
 ### Onshape
