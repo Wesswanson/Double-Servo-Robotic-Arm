@@ -73,7 +73,7 @@ https://create.arduino.cc/editor/ljennin23/eddf6cce-00a5-4108-b38d-024daafda403
  
 ### Images and code
 
-This is the compleatly finished code, only missing the button pins and some serial printing to check for any mistakes when we test it:
+This is the code, only missing the button pins and some serial printing to check for any mistakes when we test it:
 
 ```c++
 // Include the Servo library
