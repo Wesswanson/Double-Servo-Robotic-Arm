@@ -74,6 +74,7 @@ https://create.arduino.cc/editor/ljennin23/eddf6cce-00a5-4108-b38d-024daafda403
 Here are some images of the almost finished design on Onshape. The link to view it on Onshape is below. It is still missing holes to connect servo attachments with the arms, as well as the attachment on the end, but the main design with dimensions is there.
 
 ![image](https://github.com/Wesswanson/Double-Servo-Robotic-Arm/blob/main/robotarm.png?raw=true)
+![image](https://github.com/Wesswanson/Double-Servo-Robotic-Arm/blob/main/robotarm2.png?raw=true)
 
 This is the code, only missing the button pins and some serial printing to check for any mistakes when we test it:
 
@@ -134,14 +135,6 @@ void loop() {
 ### Analysis: How the design/building process is going: 
 
 We have the design fairly planned out in our heads we just need to finish the exact measurements. We need the measurments of the servo in order to create the holes big enough for them. We need to figure out how the wiring is going to play into the movement of the arm, because of our two servos. Aside from these unknowns we have most of our code ready and our design ready. 
-
-### design
-
-
-
-
-
-
 
 ### Onshape
 
