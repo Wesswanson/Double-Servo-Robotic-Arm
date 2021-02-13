@@ -73,7 +73,7 @@ https://create.arduino.cc/editor/ljennin23/eddf6cce-00a5-4108-b38d-024daafda403
 
 Here are some images of the almost finished design on Onshape. The link to view it on Onshape is below. It is still missing holes to connect servo attachments with the arms, as well as the attachment on the end, but the main design with dimensions is there.
 
-![image](Screenshot 2021-02-12 at 9.50.02 PM.png)
+![image]()
 
 This is the code, only missing the button pins and some serial printing to check for any mistakes when we test it:
 
