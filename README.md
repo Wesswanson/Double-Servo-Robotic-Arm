@@ -147,3 +147,14 @@ Here is a link to the code on the Arduino Editor:
 https://create.arduino.cc/editor/wswanso44/95b165dd-6eb1-45e6-b842-c0ea6bbc2cc4/preview
 
 ---
+
+## Final week
+
+## Images and code
+Here is the final CAD document besides a couple of skrews. We created a new acrylic sheet to connect the first servo to the base, and then used skrews to attacj the acrylic to the 3D printed base. 
+
+
+
+### Analysis: How the design/building process is going: 
+The planning and design proccess is finished, now we haev to actually build it. We had to create some more acrylic sheets in order to make the final project work as planned, but in the end it all worked out. The code is finished and we changed it from the continuous servo to the regular servo, therefore creating some slight changes. This project was very fun.
+
