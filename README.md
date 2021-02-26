@@ -151,8 +151,10 @@ https://create.arduino.cc/editor/wswanso44/95b165dd-6eb1-45e6-b842-c0ea6bbc2cc4/
 ## Final week
 
 ## Images and code
-Here is the final CAD document besides a couple of skrews. We created a new acrylic sheet to connect the first servo to the base, and then used skrews to attacj the acrylic to the 3D printed base. 
+Here is the final CAD document besides a couple of skrews. We created a new acrylic sheet to connect the first servo to the base, and then used skrews to attach the acrylic to the 3D printed base. 
 
+
+Link to code: [click here](https://create.arduino.cc/editor/wswanso44/95b165dd-6eb1-45e6-b842-c0ea6bbc2cc4/preview)
 
 
 ### Analysis: How the design/building process is going: 
