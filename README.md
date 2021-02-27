@@ -134,7 +134,7 @@ void loop() {
 
 ### Analysis: How the design/building process is going: 
 
-We have the design fairly planned out in our heads we just need to finish the exact measurements. We need the measurments of the servo in order to create the holes big enough for them. We need to figure out how the wiring is going to play into the movement of the arm, because of our two servos. Aside from these unknowns we have most of our code ready and our design ready. 
+We have the design fairly planned out in our heads we just need to finish the exact measurements. We need the measurments of the servo in order to create the holes big enough for them. We need to figure out how the wiring is going to play into the movement of the arm because of our two servos. Aside from these unknowns we have most of our code ready and our design ready. We did have to change the code and switch to using regular servos instead of continuous servos so the wires don't get tangled.
 
 ### Onshape
 
@@ -148,15 +148,75 @@ https://create.arduino.cc/editor/wswanso44/95b165dd-6eb1-45e6-b842-c0ea6bbc2cc4/
 
 ---
 
-## Final week
+## Week 4
 
 ## Images and code
-Here is the final CAD document besides a couple of skrews. We created a new acrylic sheet to connect the first servo to the base, and then used skrews to attach the acrylic to the 3D printed base. 
+Here is the final CAD document on Onshape. We created a new acrylic sheet to connect the first servo to the base, and then used screws to attach the acrylic to the 3D printed base. 
 
 
 Link to code: [click here](https://create.arduino.cc/editor/wswanso44/95b165dd-6eb1-45e6-b842-c0ea6bbc2cc4/preview)
 
+```c++
+// Include the Servo library
+#include <Servo.h>
+// Declare the Servo pin
+int servoPin1 = 3;
+int servoPin2 = 9;
+// Create a servo object
+Servo myServo1;
+Servo myServo2;
+int button1;
+int button2;
+int button3;
+int button4;
+int pin1=3;
+int pin2=4;
+int pin3=5;
+int pin4=6;
+
+int servo1angle = 90;
+int servo2angle = 90;
+
+void setup() {
+  // We need to attach the servo to the used pin number
+  myServo1.attach(servoPin1);
+  myServo2.attach(servoPin2);
+  Serial.begin(9600);
+  myServo1.write(servo1angle);
+  myServo2.write(servo2angle);
+  pinMode(pin1, INPUT);
+  pinMode(pin2, INPUT);
+  pinMode(pin3, INPUT);
+  pinMode(pin4, INPUT);
+}
+void loop() {
+  button1 = digitalread(pin1);
+  button2 = digitalread(pin2);
+  button3 = digitalread(pin3);
+  button4 = digitalread(pin4);
+
+  if (button1 == HIGH & servo1angle < 180) {
+    myServo1.write(servo1angle++);
+    delay(10);
+  }
+  else if (button2 == HIGH & servo1angle > 0) {
+    myServo1.write(servo1angle--);
+    delay(10);
+  }
+  if (button3 == HIGH & servo2angle < 180) {
+    myServo2.write(servo2angle++)
+    delay(10);
+  }
+  else if (button4 == HIGH & servo2angle > 0 {
+    myServo2.write(servo2angle--);
+    delay(10);
+  }
+}
+```
+
 
 ### Analysis: How the design/building process is going: 
-The planning and design proccess is finished, now we haev to actually build it. We had to create some more acrylic sheets in order to make the final project work as planned, but in the end it all worked out. The code is finished and we changed it from the continuous servo to the regular servo, therefore creating some slight changes. This project was very fun.
 
+The planning and design proccess is finished, now we have to actually build it. We had to design some more acrylic sheets in order to make the final project work as planned, but in the end, it all worked out. The code is finished and we changed it from the continuous servo to the regular servo, therefore creating some slight changes. We can always add an acrylic sheet to display the buttons on, or an attachment on the end, but for now we have the design for a (hopefully) functional robotic arm, so we're happy with how it turned out for now. This project was very fun.
+
+---
