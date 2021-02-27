@@ -213,7 +213,10 @@ void loop() {
   }
 }
 ```
+Here is the link to the design on Onshape: https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/4fe5c25cfc422637f83d71be
 
+This is the completed CAD design:
+(note: not all the screws are the correct length for parts that we can actually use and will fit in this design. This will be fixed soon!)
 
 ### Analysis: How the design/building process is going: 
 
