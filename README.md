@@ -218,6 +218,8 @@ Here is the link to the design on Onshape: https://cvilleschools.onshape.com/doc
 This is the completed CAD design:
 (note: not all the screws are the correct length for parts that we can actually use and will fit in this design. This will be fixed soon!)
 
+![image](https://user-images.githubusercontent.com/71406916/109374690-18622200-7885-11eb-8f49-7b85eccd0509.png)
+
 ### Analysis: How the design/building process is going: 
 
 The planning and design proccess is finished, now we have to actually build it. We had to design some more acrylic sheets in order to make the final project work as planned, but in the end, it all worked out. The code is finished and we changed it from the continuous servo to the regular servo, therefore creating some slight changes. We can always add an acrylic sheet to display the buttons on, or an attachment on the end, but for now we have the design for a (hopefully) functional robotic arm, so we're happy with how it turned out for now. This project was very fun.
