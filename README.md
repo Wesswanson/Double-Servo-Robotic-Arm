@@ -224,4 +224,9 @@ This is the completed CAD design:
 
 The planning and design proccess is finished, now we have to actually build it. We had to design some more acrylic sheets in order to make the final project work as planned, but in the end, it all worked out. The code is finished and we changed it from the continuous servo to the regular servo, therefore creating some slight changes. We can always add an acrylic sheet to display the buttons on, or an attachment on the end, but for now we have the design for a (hopefully) functional robotic arm, so we're happy with how it turned out for now. This project was very fun.
 
+
+### End of project Analysis:
+
+We acomplished creating the double servo robotic arm before the deadline. We had to ask about small measurments and details in the CAD portion, but other than that we didn't hit to many bumps in this project. We finished dn had a great time doing it! 
+
 ---
