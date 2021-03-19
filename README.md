@@ -229,4 +229,8 @@ The planning and design proccess is finished, now we have to actually build it. 
 
 We acomplished creating the double servo robotic arm before the deadline. We had to ask about small measurments and details in the CAD portion, but other than that we didn't hit to many bumps in this project. We finished dn had a great time doing it! 
 
+## Final steps of completion/ what is holding us back
+
+As Mr. Hemlstetter suggested we decided to put our puttons on the acrylic so that the breadboard is more free and it really completes our project. The only setback is that the buttons are too tall to let the arm go over them. We need to create a different mate, or find another place for the buttons. After this our project will be ready for fabrication!
+
 ---
