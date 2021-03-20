@@ -213,7 +213,7 @@ void loop() {
   }
 }
 ```
-Here is the link to the design on Onshape: https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/4fe5c25cfc422637f83d71be
+Here is the link to the design on Onshape: [link](https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/4fe5c25cfc422637f83d71be)
 
 This is the completed CAD design:
 (note: not all the screws are the correct length for parts that we can actually use and will fit in this design. This will be fixed soon!)
@@ -224,13 +224,20 @@ This is the completed CAD design:
 
 The planning and design proccess is finished, now we have to actually build it. We had to design some more acrylic sheets in order to make the final project work as planned, but in the end, it all worked out. The code is finished and we changed it from the continuous servo to the regular servo, therefore creating some slight changes. We can always add an acrylic sheet to display the buttons on, or an attachment on the end, but for now we have the design for a (hopefully) functional robotic arm, so we're happy with how it turned out for now. This project was very fun.
 
+## Final week of design
+
+### Description
+
+This week we adjusted the location of the battery and arduino on the bace to make the wiring more realistic. We also shrunk the size of the bace to reduce the material needed. We added an acrylic sheet above the first servo to attach it to the bace, and corrected mistakes in attaching the second servo. We added panel mounted buttons, but still need to adjust the location of them to make it easier to use. I think this week we realized that there were a lot of complications in our design when we actually got close to the fabrication process. Hopefully after a few more adjustments it will be ready to build!
+
+You can see the updated CAD design on [Onshape](https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/4fe5c25cfc422637f83d71be)
 
 ### End of project Analysis:
 
-We acomplished creating the double servo robotic arm before the deadline. We had to ask about small measurments and details in the CAD portion, but other than that we didn't hit to many bumps in this project. We finished dn had a great time doing it! 
+We accomplished creating the double servo robotic arm before the deadline. We had to ask about small measurements and details in the CAD portion, but other than that we didn't hit too many bumps in this project. We finished dn had a great time doing it! 
 
-## Final steps of completion/ what is holding us back
+### Final steps of completion/ what is holding us back
 
-As Mr. Hemlstetter suggested we decided to put our puttons on the acrylic so that the breadboard is more free and it really completes our project. The only setback is that the buttons are too tall to let the arm go over them. We need to create a different mate, or find another place for the buttons. After this our project will be ready for fabrication!
+As Mr. Hemlstetter suggested we decided to put our buttons on the acrylic so that the breadboard is more free and it really completes our project. The only setback is that the buttons are too tall to let the arm go over them. We need to create a different mate, or find another place for the buttons. After this our project will be ready for fabrication!
 
 ---
