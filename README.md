@@ -240,4 +240,8 @@ We accomplished creating the double servo robotic arm before the deadline. We ha
 
 As Mr. Hemlstetter suggested we decided to put our buttons on the acrylic so that the breadboard is more free and it really completes our project. The only setback is that the buttons are too tall to let the arm go over them. We need to create a different mate, or find another place for the buttons. After this our project will be ready for fabrication!
 
+### Plan for after spring break
+
+Lulu is going to be in school after spring break and Wes is sadly staying virtual. We need to correct a small error to the servo platfrom hole, which we cannot do ourselves, and after that all we need to do is fabricate. We are moving at a good pace and are almost complete, this indicatest hat we are on time to be done soon. When we return from spring break the first thing we are going to do is print and assemble the project. 
+
 ---
