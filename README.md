@@ -245,3 +245,7 @@ As Mr. Hemlstetter suggested we decided to put our buttons on the acrylic so tha
 Lulu is going to be in school after spring break and Wes is sadly staying virtual. We need to correct a small error to the servo platfrom hole, which we cannot do ourselves, and after that all we need to do is fabricate. We are moving at a good pace and are almost complete, this indicatest hat we are on time to be done soon. When we return from spring break the first thing we are going to do is print and assemble the project. 
 
 ---
+
+## Final steps: Wiring, Fabrication & Completion
+
+---
