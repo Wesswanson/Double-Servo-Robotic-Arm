@@ -248,4 +248,5 @@ Lulu is going to be in school after spring break and Wes is sadly staying virtua
 
 ## Final steps: Wiring, Fabrication & Completion
 
+The double servo arm was much harder than the single servo arm because we had to wire four buttons, and two servos. In the begginning of the fabrication process We realized that the weight balance of the arm was off. We had to lazer cut new holes in the middel of the first arm to counter balance the second servo and the second arm. Once we figured out the final wiring on tinker cad https://www.tinkercad.com/dashboard all that is left to do is plug in the code and then our project will be complete. ``
 ---
