@@ -250,3 +250,6 @@ Lulu is going to be in school after spring break and Wes is sadly staying virtua
 
 The double servo arm was much harder than the single servo arm because we had to wire four buttons, and two servos. In the begginning of the fabrication process We realized that the weight balance of the arm was off. We had to lazer cut new holes in the middel of the first arm to counter balance the second servo and the second arm. Once we figured out the final wiring on tinker cad https://www.tinkercad.com/dashboard all that is left to do is plug in the code and then our project will be complete. As we started the final wiring we realized that we had changed a lot of the pin numbers for the buttons and the servos. Once the code was changed to match the correct pin numbers our double servo robot arm was complete and working. 
 ---
+
+![gif](https://im2.ezgif.com/tmp/ezgif-2-e4515259c2d4.gif)
+
