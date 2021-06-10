@@ -247,6 +247,8 @@ Between the begining of April and the end of school in June, we fabricated the r
 
 ![cad without arms final photo](https://raw.githubusercontent.com/Wesswanson/Double-Servo-Robotic-Arm/main/Screen%20Shot%202021-06-10%20at%202.34.13%20PM.png)
 
+![cad arms](https://raw.githubusercontent.com/Wesswanson/Double-Servo-Robotic-Arm/main/Screen%20Shot%202021-06-10%20at%202.43.12%20PM.png)
+
 [Link to CAD on Onshape](https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/4fe5c25cfc422637f83d71be)
 
 ### Wiring diagram
