@@ -242,11 +242,15 @@ As Mr. Hemlstetter suggested we decided to put our buttons on the acrylic so tha
 
 ### Plan for after spring break
 
-Lulu is going to be in school after spring break and Wes is sadly staying virtual. We need to correct a small error to the servo platfrom hole, which we cannot do ourselves, and after that all we need to do is fabricate. We are moving at a good pace and are almost complete, this indicatest hat we are on time to be done soon. When we return from spring break the first thing we are going to do is print and assemble the project. 
+Lulu is going to be in school after spring break and Wes is staying virtual. We need to correct a small error to the servo platfrom hole, which we cannot do ourselves, and after that all we need to do is fabricate. We are moving at a good pace and are almost complete, this indicates that we are on time to be done soon. When we return from spring break the first thing we are going to do is print and assemble the project. 
 
 ---
 
 ## Final steps: Wiring, Fabrication & Completion
+
+### Description
+
+Between the begining of April and the end of school in June, we fabricated the robotic arm and completed the wiring and code until it mostly worked. We had some problems with it, mostly with the weight being too heavy on the first servo which caused it to get off balance at first, and once it was working, one of the servos had a stripped gear and would overcorrect itself so much that the entire arm began vibrating. We figured out the solutions to these problems, though we ran out of time to replace the servo and change the code. Here is the final CAD design, wiring diagram, and photos of the completed project, as well as a reflection on the project:
 
 ### Final CAD designs
 
