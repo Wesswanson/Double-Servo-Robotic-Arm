@@ -245,6 +245,8 @@ Between the begining of April and the end of school in June, we fabricated the r
 
 ### Final CAD designs
 
+![cad without arms final photo](https://raw.githubusercontent.com/Wesswanson/Double-Servo-Robotic-Arm/main/Screen%20Shot%202021-06-10%20at%202.34.13%20PM.png)
+
 ### Wiring diagram
 
 [link to wiring diagram on Tinker CAD](https://www.tinkercad.com/dashboard)
