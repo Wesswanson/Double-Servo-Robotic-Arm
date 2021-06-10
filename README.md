@@ -245,22 +245,34 @@ Between the begining of April and the end of school in June, we fabricated the r
 
 ### Final CAD designs
 
+We had to change the CAD design to reduce the 3D printed material we used, so we made the bottom of the bace a seperate lazer cutted piece from the two side pieces. This is an image of the cad design with the arms hidden, though it is missing two of the buttons, and the final product recived other small changes as well:
+
 ![cad without arms final photo](https://raw.githubusercontent.com/Wesswanson/Double-Servo-Robotic-Arm/main/Screen%20Shot%202021-06-10%20at%202.34.13%20PM.png)
+
+The pannel mounted buttons we used were two tall to fit in the panel because it was so close to the base, so Lulu fabricated these aditional pieces to rase the platform up enough to fit the buttons:
+
+![cad added pieces](https://raw.githubusercontent.com/Wesswanson/Double-Servo-Robotic-Arm/main/Screen%20Shot%202021-06-10%20at%202.42.21%20PM.png)
+
+The lower arm was so long that the servo couldn't support its weight, so we changed the design to have the servo attach in the middle of the arm rather than the end, but we left the holes in the end because that piece was already fabricated. The mates were messed up in this process, but you can see the final design for the arms in this image:
 
 ![cad arms](https://raw.githubusercontent.com/Wesswanson/Double-Servo-Robotic-Arm/main/Screen%20Shot%202021-06-10%20at%202.43.12%20PM.png)
 
-[Link to CAD on Onshape](https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/4fe5c25cfc422637f83d71be)
+Here is a [Link](https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/4fe5c25cfc422637f83d71be) to the CAD design in Onshape.
 
 ### Wiring diagram
 
+This is a screenshot of the wiring diagram we made on Tinker CAD. In reality, we used panel mounted buttons, but the circut still works the same way as in the diagram.
+
 ![wiring diagram](https://raw.githubusercontent.com/Wesswanson/Double-Servo-Robotic-Arm/main/Screen%20Shot%202021-06-10%20at%202.37.17%20PM.png)
 
-[link to wiring diagram on Tinker CAD](https://www.tinkercad.com/dashboard)
+Here is a [link](https://www.tinkercad.com/dashboard) to wiring diagram on Tinker CAD.
 
 ### Colpleted project
 
+Here are some images and a video of the completed project. One of the servos is stripped and doesn't completely work and it wobbles a lot in the video, but all four buttons work and control the two servos.
+
 ### Reflection
 
-The double servo arm was much harder than the single servo arm because we had to wire four buttons, and two servos. In the begginning of the fabrication process we realized that the weight balance of the arm was off. We had to lazer cut new holes in the middel of the first arm to counter balance the second servo and the second arm. Once we figured out the final wiring on Tinker CAD all that is left to do is plug in the code and then our project will be complete. As we started the final wiring we realized that we had changed a lot of the pin numbers for the buttons and the servos. Once the code was changed to match the correct pin numbers our double servo robot arm was complete and working. 
+The double servo arm was much harder than the single servo project we did earilier because we had to wire four buttons, and two servos. In the begginning of the fabrication process we realized that the weight balance of the arm was off. We had to lazer cut new holes in the middel of the first arm to counter balance the second servo and the second arm. Once we figured out the final wiring on Tinker CAD all that is left to do is plug in the code and then our project will be complete. As we started the final wiring we realized that we had changed a lot of the pin numbers for the buttons and the servos. Once the code was changed to match the correct pin numbers our double servo robot arm was complete and working. 
 
 ---
