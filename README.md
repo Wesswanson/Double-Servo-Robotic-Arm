@@ -1,15 +1,15 @@
 # Double-Servo-Robotic-Arm
 
-This is how we built a robotic arm with two servos and four buttons!
+This is how we built a portable robotic arm with two servos and four buttons!
 
 ### Description
 
-The goals of this project are to:
+The original goals of this project were to:
 * Create a double servo robotic arm that can be moved to many different locations with four buttons
 * Draw a picture with a pen attached to the end of the robotic arm
 * Launch a ball off of an attachment at the end of the robotic arm (possibly controlled with a 5th button)
 
-Though right now there isn't much here, you can view the CAD design in Onshape with [this link](https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/649546acbd99fbd2c4fc84f4)!
+We later motified the goals to just create a functioning robotic arm with two servos, an Arduino Uno with a prototyping shild and breadboard, a 9V battery, and 3D printed and lazercut pieces. This repository will show how the design, coding, and wiring evolved over the first few weeks of the project, and what the end product was.
 
 ## Week 1
 
@@ -51,19 +51,10 @@ void loop() {
 
 ### Analysis: How the design/building process is going
 
-week one:
-* We have started designing the arms in onshape, and are working out how to attach the servo to the arms in order for it to function properly. We have started thinking about the basics of the code and we are finding the best way for it to function. We still need to figure out 
-* exact connection points of parts
-* wiring of 4 buttons, and 2 servos
+* We have started designing the arms in onshape, and are working out how to attach the servo to the arms in order for it to function properly. We have started thinking about the basics of the code and we are finding the best way for it to function. We still need to figure out:
+* The exact connection points of parts
+* The wiring of the 4 buttons, and 2 servos
 * how to finish the code
-
-Onshape:
-
-https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/4fe5c25cfc422637f83d71be
-
- Arduino:
-
-https://create.arduino.cc/editor/ljennin23/eddf6cce-00a5-4108-b38d-024daafda403
 
 ---
 
@@ -151,7 +142,7 @@ https://create.arduino.cc/editor/wswanso44/95b165dd-6eb1-45e6-b842-c0ea6bbc2cc4/
 ## Week 4
 
 ## Images and code
-Here is the final CAD document on Onshape. We created a new acrylic sheet to connect the first servo to the base, and then used screws to attach the acrylic to the 3D printed base. 
+Here is the final CAD document on Onshape. In the past two weeks we created a new acrylic sheet to connect the first servo to the base, and then used screws to attach the acrylic to the 3D printed base. 
 
 
 Link to code: [click here](https://create.arduino.cc/editor/wswanso44/95b165dd-6eb1-45e6-b842-c0ea6bbc2cc4/preview)
@@ -215,7 +206,7 @@ void loop() {
 ```
 Here is the link to the design on Onshape: [link](https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/4fe5c25cfc422637f83d71be)
 
-This is the completed CAD design:
+This is the almost completed CAD design:
 (note: not all the screws are the correct length for parts that we can actually use and will fit in this design. This will be fixed soon!)
 
 ![image](https://user-images.githubusercontent.com/71406916/109374690-18622200-7885-11eb-8f49-7b85eccd0509.png)
@@ -224,7 +215,7 @@ This is the completed CAD design:
 
 The planning and design proccess is finished, now we have to actually build it. We had to design some more acrylic sheets in order to make the final project work as planned, but in the end, it all worked out. The code is finished and we changed it from the continuous servo to the regular servo, therefore creating some slight changes. We can always add an acrylic sheet to display the buttons on, or an attachment on the end, but for now we have the design for a (hopefully) functional robotic arm, so we're happy with how it turned out for now. This project was very fun.
 
-## Final week of design
+## Final week before fabrication
 
 ### Description
 
@@ -234,7 +225,7 @@ You can see the updated CAD design on [Onshape](https://cvilleschools.onshape.co
 
 ### End of project Analysis:
 
-We accomplished creating the double servo robotic arm before the deadline. We had to ask about small measurements and details in the CAD portion, but other than that we didn't hit too many bumps in this project. We finished dn had a great time doing it! 
+We accomplished creating the double servo robotic arm before the deadline. We had to ask about small measurements and details in the CAD portion, but other than that we didn't hit too many bumps in this project. We finished and had a great time doing it! 
 
 ### Final steps of completion/ what is holding us back
 
