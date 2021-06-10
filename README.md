@@ -249,7 +249,7 @@ Between the begining of April and the end of school in June, we fabricated the r
 
 ### Wiring diagram
 
-![wiring diagram](https://raw.githubusercontent.com/Wesswanson/Double-Servo-Robotic-Arm/main/Screen%20Shot%202021-06-10%20at%202.34.13%20PM.png)
+![wiring diagram](https://raw.githubusercontent.com/Wesswanson/Double-Servo-Robotic-Arm/main/Screen%20Shot%202021-06-10%20at%202.37.17%20PM.png)
 
 [link to wiring diagram on Tinker CAD](https://www.tinkercad.com/dashboard)
 
