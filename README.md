@@ -249,7 +249,7 @@ Lulu is going to be in school after spring break and Wes is staying virtual. We 
 
 Between the begining of April and the end of school in June, we fabricated the robotic arm and completed the wiring and code until it mostly worked. We had some problems with it, mostly with the weight being too heavy on the first servo which caused it to get off balance at first, and once it was working, one of the servos had a stripped gear and would overcorrect itself so much that the entire arm began vibrating. We figured out the solutions to these problems, though we ran out of time to replace the servo and change the code to reduce the shaking. Here is the final CAD design, wiring diagram, and photos of the completed robitic arm, as well as a reflection on the project:
 
-### Final CAD designs
+### Final CAD designs and code
 
 We had to change the CAD design to reduce the 3D printed material we used, so we made the bottom of the bace a seperate lazercut piece from the two 3D printed side pieces. This is an image of the CAD design with the arms hidden, though it is missing two of the buttons, and the final product recived other small changes as well:
 
@@ -265,6 +265,65 @@ The lower arm was so long that the servo couldn't support its weight, so we chan
 
 Here is a [Link](https://cvilleschools.onshape.com/documents/ab6067fb057e1bdd1e35c96a/w/9bd70a3afb36c59bc0399ed6/e/4fe5c25cfc422637f83d71be) to the CAD design in Onshape.
 
+Here is the final code we used on the robotic arm, we had to make some small changes like changing the servo pins from 1 and 2 to 9 and 10, but otherwise it is the same as the previous code:
+
+```c++ // Include the Servo library
+#include <Servo.h>
+// Declare the Servo pin
+int servoPin1 = 9;
+int servoPin2 = 10;
+// Create a servo object
+Servo myServo1;
+Servo myServo2;
+int button1;// the state of the buttons (high/low)
+int button2;
+int button3;
+int button4;
+int pin1=3; // The pins attached to the buttons
+int pin2=4;
+int pin3=5;
+int pin4=6;
+
+int servo1angle = 90;
+int servo2angle = 90;
+
+void setup() {
+  // We need to attach the servo to the used pin number
+  myServo1.attach(servoPin1);
+  myServo2.attach(servoPin2);
+  Serial.begin(9600);
+  myServo1.write(servo1angle);
+  myServo2.write(servo2angle);
+  pinMode(pin1, INPUT);
+  pinMode(pin2, INPUT);
+  pinMode(pin3, INPUT);
+  pinMode(pin4, INPUT);
+}
+void loop() {
+  button1 = digitalRead(pin1);
+  button2 = digitalRead(pin2);
+  button3 = digitalRead(pin3);
+  button4 = digitalRead(pin4);
+
+  if (button1 == HIGH & servo1angle < 180) {
+    myServo1.write(servo1angle++);
+    delay(10);
+  }
+  else if (button2 == HIGH & servo1angle > 0) {
+    myServo1.write(servo1angle--);
+    delay(10);
+  }
+  if (button3 == HIGH & servo2angle < 180) {
+    myServo2.write(servo2angle++);
+    delay(10);
+  }
+  else if (button4 == HIGH & servo2angle > 0) {
+    myServo2.write(servo2angle--);
+    delay(10);
+  }
+}
+```
+
 ### Wiring diagram
 
 This is a screenshot of the wiring diagram we made on Tinker CAD. In reality, we used panel mounted buttons, but the circut still works the same way as in the diagram.
@@ -276,6 +335,8 @@ Here is a [link](https://www.tinkercad.com/dashboard) to wiring diagram on Tinke
 ### Colpleted project
 
 Here are some images and a video of the completed project. One of the servos is stripped and doesn't completely work and it wobbles a lot in the video, but all four buttons work and control the two servos.
+
+Here is a [link](https://drive.google.com/file/d/1gA_3RwZ_o-3KI7g8CzsWBvGc8uZFBJEr/view?usp=sharing) to a video of the robotic arm working.
 
 ### Reflection
 
