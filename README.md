@@ -25,7 +25,7 @@ This repository will show how the design, coding, and wiring evolved over the fi
 * [Final week before fabrication](#Final week before fabrication)
 * [Final steps with completed wiring, code, CAD, etc.](#Final steps: Wiring, Fabrication & Completion)
 
-## Week1
+## Week 1
 
 ### Images and Code
 
