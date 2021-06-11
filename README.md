@@ -18,6 +18,13 @@ We later motified the goals to just create a functioning robotic arm with the fo
 
 This repository will show how the design, coding, and wiring evolved over the first few weeks of the project, and what the end product was.
 
+### Table of contents:
+* [Week 1](#Week 1)
+* [Week 2](#Week 2)
+* [Week 4](#Week 4)
+* [Final week before fabrication](#Final week before fabrication)
+* [Final steps with completed wiring, code, CAD, etc.](#Final steps: Wiring, Fabrication & Completion)
+
 ## Week 1
 
 ### Images and Code
