@@ -346,6 +346,8 @@ Here is a [link](https://www.tinkercad.com/dashboard) to wiring diagram on Tinke
 
 Here are some images and a video of the completed project. One of the servos is stripped and doesn't completely work and it wobbles a lot in the video, but all four buttons work and control the two servos.
 
+![robotic arm image](https://raw.githubusercontent.com/Wesswanson/Double-Servo-Robotic-Arm/main/Screenshot_20210610-230652-750.png)
+
 Here is a [link](https://drive.google.com/file/d/1gA_3RwZ_o-3KI7g8CzsWBvGc8uZFBJEr/view?usp=sharing) to a video of the robotic arm working.
 
 ### Reflection
