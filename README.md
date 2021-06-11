@@ -22,10 +22,10 @@ This repository will show how the design, coding, and wiring evolved over the fi
 * [Week 1](#Week1)
 * [Week 2](#Week2)
 * [Week 4](#Week4)
-* [Final week before fabrication](#Final week before fabrication)
-* [Final steps with completed wiring, code, CAD, etc.](#Final steps: Wiring, Fabrication & Completion)
+* [Final week before fabrication](#Weekbeforefabrication)
+* [Final steps with completed wiring, code, CAD, etc.](#Finalsteps)
 
-## Week 1
+## Week1
 
 ### Images and Code
 
@@ -231,7 +231,7 @@ The planning and design proccess is finished, now we have to actually build it. 
 
 ---
 
-## Final week before fabrication
+## Weekbeforefabrication
 
 ### Description
 
@@ -253,7 +253,7 @@ Lulu is going to be in school after spring break and Wes is staying virtual. We 
 
 ---
 
-## Final steps: Wiring, Fabrication & Completion
+## Finalsteps
 
 ### Description
 
