@@ -9,11 +9,11 @@ The original goals of this project were to:
 * Draw a picture with a pen attached to the end of the robotic arm
 * Launch a ball off of an attachment at the end of the robotic arm (possibly controlled with a 5th button)
 
-We later motified the goals to just create a functioning robotic arm with the following materials:
+We later modified the goals to just create a functioning robotic arm with the following materials:
 * two servos
-* An Arduino Uno with a prototyping shild and breadboard
+* An Arduino Uno with a prototyping shield and breadboard
 * A 9 volt battery
-* 3D printed and lazercut pieces, including a lazercut acrylic bace, four pieces to hold up the panels, two acrylic lazercut panels to hold the buttons and servo, and the two lazercut acrylic arms.
+* 3D printed and laser cut pieces, including a laser cut acrylic base, four pieces to hold up the panels, two acrylic laser cut panels to hold the buttons and servo, and the two laser cut acrylic arms.
 * Wires, buttons and resistors, as shown in the wiring diagram.
 
 This repository will show how the design, coding, and wiring evolved over the first few weeks of the project, and what the end product was.
@@ -261,7 +261,7 @@ Between the begining of April and the end of school in June, we fabricated the r
 
 ### Final CAD designs and code
 
-We had to change the CAD design to reduce the 3D printed material we used, so we made the bottom of the bace a seperate lazercut piece from the two 3D printed side pieces. This is an image of the CAD design with the arms hidden, though it is missing two of the buttons, and the final product recived other small changes as well:
+We had to change the CAD design to reduce the 3D printed material we used, so we made the bottom of the bace a seperate lasercut piece from the two 3D printed side pieces. This is an image of the CAD design with the arms hidden, though it is missing two of the buttons, and the final product recived other small changes as well:
 
 ![cad without arms final photo](https://raw.githubusercontent.com/Wesswanson/Double-Servo-Robotic-Arm/main/Screen%20Shot%202021-06-10%20at%202.34.13%20PM.png)
 
@@ -352,6 +352,6 @@ Here is a [link](https://drive.google.com/file/d/1gA_3RwZ_o-3KI7g8CzsWBvGc8uZFBJ
 
 ### Reflection
 
-The double servo arm was much harder than the single servo project we did previously because we had to wire four buttons, and two servos. In the begginning of the fabrication process we realized that the weight balance of the arm was off. We had to lazer cut new holes in the middel of the first arm to counter balance the second servo and the second arm. Once we figured out the final wiring on Tinker CAD all that was left to do was plug in the code. As we started the final wiring we realized that we had changed a lot of the pin numbers for the buttons and the servos. Once the code was changed to match the correct pin numbers our double servo robot arm was complete and working. Overal, I think we acomplished the goles we had for this project. We designed and fabricated the materials needed for the robtic arm, we wired up two servos and four buttons, and we coded it so the buttons would control the arms, and it all functioned. This was a good prototype for our first real project in engineering one. hopefully we or others will be able to use the information in this repository and the final robotic arm in the future to create a better version with more of the fetures we initialy hoped to add!
+The double servo arm was much harder than the single servo project we did previously because we had to wire four buttons, and two servos. In the beginning of the fabrication process we realized that the weight balance of the arm was off. We had to laser cut new holes in the middle of the first arm to counterbalance the second servo and the second arm. Once we figured out the final wiring on Tinker CAD all that was left to do was plug in the code. As we started the final wiring we realized that we had changed a lot of the pin numbers for the buttons and the servos. Once the code was changed to match the correct pin numbers our double servo robot arm was complete and working. Overall, I think we accomplished the goals we had for this project. We designed and fabricated the materials needed for the robtic arm, we wired up two servos and four buttons, and we coded it so the buttons would control the arms, and it all functioned. This was a good prototype for our first real project in engineering one. Hopefully we or others will be able to use the information in this repository and the final robotic arm in the future to create a better version with more of the features we initially hoped to add!
 
 ---
